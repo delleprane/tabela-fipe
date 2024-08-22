@@ -6,13 +6,13 @@ function Home() {
       <h1>Menu:</h1>
       <ol className="Menu">
         <Link to="/exercicio1">
-          <li>Exercicio-1</li>
+          <li>Exercicio-1: Função maskify, que altera todos, exceto os últimos quatro caracteres, para "#"</li>
         </Link>
         <Link to="/exercicio2">
-          <li>Exercicio-2</li>
+          <li>Exercicio-2: Editar informações</li>
         </Link>
         <Link to="/exercicio3">
-          <li>Exercicio-3</li>
+          <li>Exercicio-3: Consumo API Rick e Morty</li>
         </Link>
         <Link to="/tabelaFipe">
           <li>Tabela Fipe</li>
