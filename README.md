@@ -37,7 +37,6 @@ Este projeto é uma aplicação desenvolvida para praticar e demonstrar várias 
 
 <li>Acesse a aplicação em http://localhost:3000.</li>
 </ul>
-orio
 
 ## Deploy
 ### O projeto está disponível online em </br>
