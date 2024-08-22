@@ -31,7 +31,7 @@ Este projeto é uma aplicação desenvolvida para praticar e demonstrar várias 
 ### Visualização: Visualize os personagens cadastrados em um formato organizado e intuitivo.
 ## Como Usar
 <ul>
-  <li>Clone o Repositório </li></br> git clone https://github.com/delleprane/organo.git</li></ul>
+  <li>Clone o Repositório </li></br> git clone https://github.com/delleprane/tabela-fipe.git</li></ul>
   
 <li>Inicie o Servidor de Desenvolvimento </li></br>npm start</li>
 
