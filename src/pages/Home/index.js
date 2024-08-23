@@ -9,7 +9,7 @@ function Home() {
           <li>Função maskify, que altera todos, exceto os últimos quatro caracteres, para "#"</li>
         </Link>
         <Link to="/exercicio2">
-          <li>EEditar informações</li>
+          <li>Editar informações</li>
         </Link>
         <Link to="/exercicio3">
           <li>Consumo API Rick e Morty</li>
