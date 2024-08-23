@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/fernanda-delleprane" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-# Tabela fip e Exercicios
+# Tabela fipe e Exercicios
 ### Descrição
 Este projeto é uma aplicação desenvolvida para praticar e demonstrar várias técnicas de desenvolvimento web, incluindo:
 <ul>
@@ -23,7 +23,7 @@ Este projeto é uma aplicação desenvolvida para praticar e demonstrar várias 
   Edição de Conteúdos: Funcionalidade para editar conteúdos dinâmicos.
 </li>
 <li>
-  Consulta à Tabela FIP: Criação de campos e retorno personalizado a partir de consultas na tabela FIP de carros.
+  Consulta à Tabela FIPE: Criação de campos e retorno personalizado a partir de consultas na tabela FIPE de carros.
 </li>
 </ul>
 
